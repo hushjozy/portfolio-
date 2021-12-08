@@ -203,8 +203,8 @@ a:hover {
 
 .socials {
   padding: 1.5rem 0;
-    margin-right: 97%;
-    margin-top: 10%;
+    margin-left: 97%;
+    margin-top:0%;
 
 }
 
@@ -232,7 +232,7 @@ a:hover {
 }
 
 #btnred{
-  
+
 }
 
 /*------/ Ul resect /------*/
@@ -635,6 +635,7 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
+  margin-top: 45%;
 }
 
 .intro .intro-subtitle {
